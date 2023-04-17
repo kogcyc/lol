@@ -1,6 +1,6 @@
 ---
 title: The Quality Steel Bicycle Frame
-desc: An overview of what a quality steel bicycle frame is.
+desc: We cover the basics of how to identify a high-quality steel frameset. 
 himg: eisen.jpg
 himgdesc: an Eisentraut Limited frameset
 ---
@@ -8,4 +8,4 @@ himgdesc: an Eisentraut Limited frameset
 
 ## The Quality Steel Bicycle Frame ##
 
-Some of us do not have a lot of experience with steel-framed bicycles. We might have ridden one as a child, but we have switched to aluminium or carbon fiber since. The goal of this article is to show the reader how to identify a quality adult-sized steel frame.
+If you're not familiar with steel-framed bicycles, don't worry, you're not alone. While you might have ridden one as a kid, it's likely you've since switched to the lighter and more modern materials of aluminium or carbon fiber. But if you're looking to get back to basics and explore the world of steel frames, this article is for you. In it, we'll help you identify the key characteristics of a high-quality adult-sized steel frame, so you can make an informed decision when it comes to your next ride.
